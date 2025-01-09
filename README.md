@@ -1,21 +1,21 @@
-# 🎯 CRUD-Webanwendung mit Node.js und Next.js
+#  CRUD-Webanwendung mit Node.js und Next.js
 
-## 📖 Projektübersicht
+##  Projektübersicht
 Eine sichere, mehrschichtige Webanwendung, die CRUD-Operationen mit E-Mail-Authentifizierung implementiert und eine effiziente und benutzerfreundliche Plattform zur Datenverwaltung bietet.
 
 ---
 
-## 🚀 Funktionen
-- 🔐 **Authentifizierung**: Sicheres Login und Identitätsüberprüfung.
-- 📝 **Benutzerregistrierung**: Ermöglicht neuen Benutzern die Registrierung mit E-Mail-Bestätigung.
-- 📋 **CRUD-Operationen**: Erstellen, lesen, aktualisieren und löschen von Daten mit entsprechender Zugriffskontrolle.
-- 🛠️ **Benutzerprofilverwaltung**: Benutzer können ihre eigenen Informationen bearbeiten und aktualisieren.
-- 📊 **Rollenbasierte Zugriffskontrolle**: Berechtigungen für verschiedene Benutzerrollen.
-- 🚪 **Abmeldung (Logout)**: Sicherer Sitzungsabbruch.
+##  Funktionen
+-  **Authentifizierung**: Sicheres Login und Identitätsüberprüfung.
+-  **Benutzerregistrierung**: Ermöglicht neuen Benutzern die Registrierung mit E-Mail-Bestätigung.
+-  **CRUD-Operationen**: Erstellen, lesen, aktualisieren und löschen von Daten mit entsprechender Zugriffskontrolle.
+-  **Benutzerprofilverwaltung**: Benutzer können ihre eigenen Informationen bearbeiten und aktualisieren.
+-  **Rollenbasierte Zugriffskontrolle**: Berechtigungen für verschiedene Benutzerrollen.
+-  **Abmeldung (Logout)**: Sicherer Sitzungsabbruch.
 
 ---
 
-## 🛠️ Verwendete Technologien
+##  Verwendete Technologien
 | **Technologie**       | **Beschreibung**                    |
 |-----------------------|--------------------------------------|
 | **Node.js**           | Laufzeitumgebung für das Backend    |
@@ -26,7 +26,7 @@ Eine sichere, mehrschichtige Webanwendung, die CRUD-Operationen mit E-Mail-Authe
 
 ---
 
-## 📐 Architekturübersicht
+##  Architekturübersicht
 - **Frontend**: Entwickelt mit Next.js und Tailwind CSS für ein responsives UI.
 - **Backend**: Node.js mit Express für die API-Entwicklung.
 - **Datenbank**: PostgreSQL für die Datenspeicherung mit Sequelize ORM.
@@ -34,7 +34,7 @@ Eine sichere, mehrschichtige Webanwendung, die CRUD-Operationen mit E-Mail-Authe
 
 ---
 
-## 🗓️ Projektzeitplan
+##  Projektzeitplan
 | **Phase**               | **Geschätzte Stunden** |
 |-------------------------|------------------------|
 | **Planung**             | 8                     |
